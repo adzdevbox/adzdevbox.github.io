@@ -1,15 +1,30 @@
-﻿# ADZ Dev Coding
+# ADZ Dev Coding
 
 Public GitHub Pages website for ADZ Dev Coding and Reader.
 
-Target domain:
+Live site:
 
 https://adz-dev-coding.pl/
 
-Target Reader Privacy Policy URL:
+Reader Privacy Policy URL candidate:
 
 https://adz-dev-coding.pl/reader/privacy/
 
-Status:
+Current status:
 
-Initial repository scaffold only. Final website content, DNS, HTTPS, and Play Console acceptance are not yet validated.
+- GitHub Pages content is published from this repository on `main`.
+- Apex DNS resolves to GitHub Pages A records.
+- `www.adz-dev-coding.pl` resolves to `adzdevbox.github.io`.
+- HTTPS route checks returned HTTP 200 for the site and Reader privacy route on 2026-05-15.
+
+See:
+
+- `docs/GITHUB_PAGES_STATUS.md`
+- `docs/PLAY_CONSOLE_HANDOFF.md`
+
+Not validated:
+
+- Play Console acceptance
+- final legal/privacy compliance
+- Android runtime validation
+- provider/data-boundary validation
