@@ -1,6 +1,6 @@
 # Play Console Handoff
 
-## Reader Privacy Policy URL Candidate
+## Reader Privacy Policy URL
 
 https://adz-dev-coding.pl/reader/privacy/
 
@@ -16,10 +16,9 @@ Checked on 2026-05-15:
 
 ## Manual Steps Before Play Console Use
 
-- Supply and review final Reader privacy/legal text.
-- Replace the Phase 1 scaffold text on `/reader/privacy/`.
+- Review the published Reader privacy/legal text and confirm it is ready for Play Console submission.
 - Confirm the GitHub Pages UI allows or has enabled Enforce HTTPS.
-- Re-check `https://adz-dev-coding.pl/reader/privacy/` after final text is published.
+- Re-check `https://adz-dev-coding.pl/reader/privacy/` after website content changes are merged.
 
 ## Not Claimed
 
