@@ -1,4 +1,3 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
-
 Sitemap: https://adz-dev-coding.pl/sitemap.xml
