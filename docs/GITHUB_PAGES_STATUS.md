@@ -16,7 +16,7 @@ Primary live URL:
 
 https://adz-dev-coding.pl/
 
-Reader Privacy Policy URL candidate:
+Reader Privacy Policy URL:
 
 https://adz-dev-coding.pl/reader/privacy/
 
@@ -68,8 +68,8 @@ Content safety checks:
 ## Remaining Manual Steps
 
 - In GitHub Pages settings, enable or confirm Enforce HTTPS if the GitHub UI allows it.
-- Replace the Phase 1 privacy scaffold with final reviewed legal/privacy text before treating the page as final compliance material.
-- Update Play Console only after the operator confirms the final privacy text is ready for submission.
+- Re-check live routes after website content changes are merged.
+- Update Play Console only after the operator confirms the published privacy text is ready for submission.
 
 ## Not Validated
 
@@ -81,5 +81,5 @@ Content safety checks:
 
 ## Risk Notes
 
-- The Reader Privacy Policy page is reachable, but the current text is still a Phase 1 scaffold and explicitly not final legal copy.
+- The Reader Privacy Policy page is reachable and contains public policy text, but final legal/privacy compliance is still an operator/legal review question.
 - GitHub UI DNS/HTTPS status can lag behind DNS and curl evidence.
